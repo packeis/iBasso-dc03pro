@@ -8,10 +8,10 @@ The iBasso dongle dacs of the DC series can be controlled via a vendor supplied 
 * "turbo" - on and off, presumably enables or disables output driving opamp
 * digital filter - values D1 to D5 
 
-Unfortunately there is no support to access the above device settings under Windows / Linux / BSD operating systems. There simply ist no equivalent to Android UAC app.
+Unfortunately there is no support to access the above device settings under Windows / Linux / *BSD operating systems. There simply ist no equivalent to Android UAC app.
 
 The small python application in this repository implements the
-above the settings gain, turbo mode and filter.  
+above settings gain, turbo mode and filter.  
 
 ## Requirements and platform support
 
