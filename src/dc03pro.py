@@ -72,7 +72,7 @@ def dc03pro_report(dev, index):
         "Turbo Off",
         "Turbo On"
     ]
-    # report data is "reverse engineered" from Android UAC app
+    # HID report data
     reports = [
         # D1 - Fast Roll Off
         [0x11, 0x11, 0x88, 0x60, 0x00, 0x00, 0x05, 0x09, 0x00, 0x00, 0x00, 0x42, 0x00, 0x00, 0x00, 0x00],
