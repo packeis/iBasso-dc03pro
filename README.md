@@ -1,4 +1,4 @@
-# DC03PRO - Mimick iBasso UAC Android application under Windows / Linux / BSD
+# DC03PRO - Mimick iBasso UAC Android application under Windows / Linux / *BSD
 
 ## Introduction
 
