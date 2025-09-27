@@ -15,7 +15,7 @@ above settings gain, turbo mode and filter.
 
 ## Requirements and platform support
 
-Obviously a python interpreter ist needed to run this little application. 
+Being written in python a python interpreter ist needed to run this little application. 
 
 The details about python version and required modules and libraries can be found here: https://github.com/pyusb/pyusb#requirements-and-platform-support
 
